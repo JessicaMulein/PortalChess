@@ -1,0 +1,27 @@
+[submodule "chess.engine"]
+	path = chess.engine
+	url = git@github.com:PortalChess/chess.engine.git
+[submodule "chess.db"]
+	path = chess.db
+	url = git@github.com:PortalChess/pgn-tools.git
+[submodule "chess.reactredux"]
+	path = chess.reactredux
+	url = git@github.com:PortalChess/chess.reactredux.git
+[submodule "chess.spikes"]
+	path = chess.spikes
+	url = git@github.com:PortalChess/chess.spikes.git
+[submodule "chess.webapi"]
+	path = chess.webapi
+	url = git@github.com:PortalChess/chess.webapi.git
+[submodule "pgn-tools"]
+	path = pgn-tools
+	url = git@github.com:PortalChess/pgn-tools.git
+[submodule "ReplayerAngular"]
+	path = ReplayerAngular
+	url = git@github.com:PortalChess/ReplayerAngular.git
+[submodule "chess.blazor"]
+	path = chess.blazor
+	url = git@github.com:PortalChess/chess.blazor.git
+[submodule "chess.spa.feature.tests"]
+	path = chess.spa.feature.tests
+	url = git@github.com:PortalChess/chess.spa.feature.tests.git
